@@ -1,0 +1,122 @@
+[
+    {
+        "id": 990922,
+        "name": "'Oliver Smith'",
+        "rank": "Saucier",
+        "gender": "Male",
+        "experience": "2 Years",
+        "salary": 8000,
+        "Description": "The role of the Saucier, commonly known as the sauce chef, is often the highest respected role in the kitchen brigade system of stations, reporting directly to the head chef or sous-chef. The saucier is responsible for a variety of tasks, such as sautéing foods and preparing soups and stews, however, their most vital role lies within the creation of all sauces and gravies that are meant to accompany other dishes.",
+        "image": "https://media.istockphoto.com/photos/handsome-young-african-chef-standing-in-professional-kitchen-in-a-picture-id1217012868?s=612x612"
+    },
+    {
+        "id": 58920,
+        "name": "Jack Thomas",
+        "rank": "Poissonnier",
+        "gender": "Male",
+        "experience": "4 Years",
+        "salary": 6000,
+        "Description": "The Poissonnier, commonly referred to as the fish chef, is responsible for the preparation of all fish dishes in the kitchen. This can include acquiring fresh fish on a daily basis from local fishermen or other merchants, as well as bringing in non-local catches, as needed, to supplement the menu. The poissonnier is also in charge of preparing all of the fish dishes on the menu, whether they are entrees or appetizers. In smaller kitchens, the poissonnier will often prepare any sauces that need accompany the fish, in the absence of a saucier. This would also make him responsible for any fish stocks or soups as well.",
+        "image": "https://media.istockphoto.com/photos/smiling-male-cook-on-gray-background-picture-id1300835557"
+    },
+    {
+        "id": 540450,
+        "name": "Joshua Brown",
+        "rank": "Rotisseur",
+        "gender": "Male",
+        "experience": "3 Years",
+        "salary": 5000,
+        "Description": "The Rotisseur, also known as the roast chef, is in charge of preparing any roasted or braised meats on the menu. This includes anything from steaks to veal to lamb or any other similar items. The rotisseur may also be in charge of obtaining meats from local suppliers or arranging deliveries from other retailers. The cooking styles used often focus on cooking the meats very slowly in order to hold in as much flavor as possible. Many meats are also braised, which involves searing the outside of the meat to lock in moisture and then cooking it in the oven or on a stove to bring out the flavor of the meat and obtain a tender cut.",
+        "image": "https://media.istockphoto.com/photos/young-waiter-serving-picture-id811911828?s=612x612"
+    },
+    {
+        "id": 805006,
+        "name": "Thomas Johnson",
+        "rank": "Best Entremetier",
+        "gender": "Male",
+        "experience": "2 Years",
+        "salary": 4000,
+        "Description": "The Entremetier station is where one would find the vegetable chef. Unlike other stations that are managed by a single chef, larger establishments may often choose to employ two different chefs to work the entremetier station. A potager chef would be in charge of making any soups that are on the menu and a legumier chef would be in charge of preparing any vegetable dishes.",
+        "image": "https://media.istockphoto.com/photos/portrait-of-sommelier-in-bar-establishment-picture-id1188726412?s=612x612"
+    },
+    {
+        "id": 895080,
+        "name": "William Jones",
+        "rank": "Grillardin",
+        "gender": "Male",
+        "experience": "3 Years",
+        "salary": 3000,
+        "Description": "The Grillardin, also known as the grill chef, is, as the name implies, responsible for any foods that must be grilled. This can include meats, poultry, or even vegetables.",
+        "image": "https://images.unsplash.com/photo-1618212158973-5e36714e374b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW9kZWwlMjBtYW58ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 878995,
+        "name": "Alfie Miller",
+        "rank": " Friturier",
+        "gender": "Male",
+        "experience": "4 Years",
+        "salary": 42000,
+        "Description": "The Friturier, more commonly known as the fry cook, handles any foods that must be cooked in oils or other animal fats. Like the grillardin, the friturier can handle anything from meats to potatoes to vegetables.",
+        "image": "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+        "id": 78506,
+        "name": "Daniel Rodriguez",
+        "rank": "Entremetier",
+        "gender": "Female",
+        "experience": "3 Years",
+        "salary": 3200,
+        "Description": "The Entremetier station is where one would find the vegetable chef. Unlike other stations that are managed by a single chef, larger establishments may often choose to employ two different chefs to work the entremetier station. A potager chef would be in charge of making any soups that are on the menu and a legumier chef would be in charge of preparing any vegetable dishes.",
+        "image": "https://images.unsplash.com/photo-1583195648371-437bf29408ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+        "id": 598652,
+        "name": "Joseph Davis",
+        "rank": " Pastry Chefs",
+        "gender": "Male",
+        "experience": "5 Years",
+        "salary": 4900,
+        "Description": "Pastry Chefs are responsible for creating chocolates, breads, and pastries that find their way to the dessert menu. They work in concert with bakers, chocolatiers and others dessert and pastry specialists.   Pastry chef colleges focus on training for this delicious job option by offering pastry classes alongside traditional chef’s courses.",
+        "image": "https://images.unsplash.com/photo-1581599129568-e33151627628?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": 789508,
+        "name": "Samuel Garcia",
+        "rank": "Patissier",
+        "gender": "Male",
+        "experience": "2 Years",
+        "salary": 1200,
+        "Description": "The patissier, also known as a pastry chef, is typically one of the most beloved of all the station chefs, particularly for the dishes he is charged with preparing. This station is responsible for creating or preparing baked goods, such as breads and pastries.  Sweet breads and croissants are the breakfast bounty of pastry chefs, but sophisticated chocolates and petit fors provide elegant proof that this is an artistic discipline.",
+        "image": "https://media.istockphoto.com/photos/close-up-photo-amazing-he-him-his-middle-age-macho-perfect-appearance-picture-id1157099476?b=1&k=20&m=1157099476&s=170667a&w=0&h=lqe3sVmS3khqLFxVpeLr0DNFzbUA6UJ_paKTOthZU3M="
+    },
+    {
+        "id": 789580,
+        "name": "Jacob Martinez",
+        "rank": "Pastry Chefs",
+        "gender": "Male",
+        "experience": "3 Years",
+        "salary": 1800,
+        "Description": "Pastry Chefs are responsible for creating chocolates, breads, and pastries that find their way to the dessert menu. They work in concert with bakers, chocolatiers and others dessert and pastry specialists.   Pastry chef colleges focus on training for this delicious job option by offering pastry classes alongside traditional chef’s courses.",
+        "image": "https://media.istockphoto.com/photos/young-smiling-handsome-man-in-casual-clothes-posing-isolated-on-blue-picture-id1249420269?b=1&k=20&m=1249420269&s=170667a&w=0&h=Bg1BPWCH2z_hpe0HbHf5Ns_CAHD1h_q3lYy4XR69UrY="
+    },
+    {
+        "id": 58968,
+        "name": "Ethan Lee",
+        "rank": "Saucier",
+        "gender": "Female",
+        "experience": "2 Years",
+        "salary": 1000,
+        "Description": "The role of the Saucier, commonly known as the sauce chef, is often the highest respected role in the kitchen brigade system of stations, reporting directly to the head chef or sous-chef. The saucier is responsible for a variety of tasks, such as sautéing foods and preparing soups and stews, however, their most vital role lies within the creation of all sauces and gravies that are meant to accompany other dishes.",
+        "image": "https://media.istockphoto.com/photos/never-leave-home-without-your-confidence-picture-id1157185406?b=1&k=20&m=1157185406&s=170667a&w=0&h=ONtD396k6QtssJgP_B4iGC6vxiLu8yekjvKk1GcfrKM="
+    },
+    {
+        "id": 596863,
+        "name": "Matthew Martin",
+        "rank": "Grillardin",
+        "gender": "Male",
+        "experience": "1 Years",
+        "salary": 1500,
+        "Description": "The Grillardin, also known as the grill chef, is, as the name implies, responsible for any foods that must be grilled. This can include meats, poultry, or even vegetables",
+        "image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    }
+]
