@@ -20,7 +20,8 @@ const Team = props => {
                     <tr>
                         <td className="text-secondary text-center">{team.length}</td>
                         <td className="text-secondary text-center">
-                            {totalCost}
+                            <span>${totalCost}</span>
+
                         </td>
                     </tr>
                 </tbody>

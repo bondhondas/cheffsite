@@ -4,6 +4,7 @@ import Header from '../Header/header';
 
 const Home = () => {
     const [home, setHome] = useState([])
+    const homee = home.slice(0, 6);
 
 
     useEffect(() => { },
@@ -22,7 +23,7 @@ const Home = () => {
                         <div className="row row-cols-1 row-cols-md-3 g-4">
 
                             {
-                                home.map(home => (
+                                homee.map(home => (
                                     <div className="col">
                                         <div className="card h-100 bg-priary border-danger">
                                             <img src={home?.image} className="card-img-top person-img img-fluid img-responsive " alt={home?.name} />
@@ -48,7 +49,9 @@ const Home = () => {
                                     </div>
                                 ))
                             }
+
                         </div>
+
                     </div>
                 </div>
             </div>

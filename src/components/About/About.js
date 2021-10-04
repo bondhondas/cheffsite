@@ -3,7 +3,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 
 const About = () => {
     return (
-        <div>
+        <div className="bg-muted">
 
             <h3 className="text-danger mt-5">
                 About Chinese Culinary Institute
